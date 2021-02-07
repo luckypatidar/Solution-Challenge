@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Education is the manifestaion of perfection present already in man. Divinity is the manifestaion of the religion already in man.",
+        "subTitle": "Swami Vivekanand",
+        "image": "/images/leaders/swami.png",
+        "alt": "Swami Vivekanand",
+        "direction": "row"
+    },
+    {
+        "id": 2,
+        "title": "Education is the most powerful weapon which you can use to change the world.",
+        "subTitle": "Nelson Mandela",
+        "image": "/images/leaders/nelson.png",
+        "alt": "Nelson Mandela",
+        "direction": "row-reverse"
+    },
+    {
+        "id": 3,
+        "title": "Education is not the learning of facts, but the training of the mind to think.",
+        "subTitle": "Albert Einstein",
+        "image": "/images/leaders/albert.png",
+        "alt": "Albert Einstein",
+        "direction": "row"
+    },
+    {
+        "id": 4,
+        "title": "Anyone who stops learning is old, whether at twenty or eighty.",
+        "subTitle": "Henry Ford",
+        "image": "/images/leaders/ford.png",
+        "alt": "Henry Ford",
+        "direction": "row-reverse"
+    },
+    {
+        "id": 5,
+        "title": "The function of education is to teach one to think intensively and to think critically. Intelligence plus character that is the goal of true education.",
+        "subTitle": "Dr. Martin Luther King, Jr.",
+        "image": "/images/leaders/martin.png",
+        "alt": "Dr. Martin Luther King, Jr.",
+        "direction": "row"
+    }
+]
